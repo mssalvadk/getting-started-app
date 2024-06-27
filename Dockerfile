@@ -1,5 +1,5 @@
 # syntax=docker/dockerfile:1
-
+# comments added
 FROM node:18-alpine
 WORKDIR /app
 dCOPY . .
